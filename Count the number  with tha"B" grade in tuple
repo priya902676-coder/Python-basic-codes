@@ -1,0 +1,2 @@
+ grade=("A","B","M","S","B","N","B")
+print(grade.count("B"))
