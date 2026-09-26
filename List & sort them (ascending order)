@@ -1,0 +1,3 @@
+list=["A","D","C","L","A","B","N","A"]
+list.sort()
+print(list)
