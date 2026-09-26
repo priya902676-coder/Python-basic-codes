@@ -1,0 +1,7 @@
+list=[]
+mov1="bhooth bangla"
+mov2="border 2"
+mov3="welcome to the jungle "
+list.append(mov1)
+list.append(mov2)
+print("favorite movies=",list)
